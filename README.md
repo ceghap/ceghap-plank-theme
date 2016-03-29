@@ -13,7 +13,7 @@
 	``` 
 3. Copy theme folder to ~/.local/share/plank/themes 
 	```
-	cp -r ceghap ~/.local/share/plank/themes
+	cp -r ceghap/ ~/.local/share/plank/themes
 	```
 4. Open plank preferences 
 	```

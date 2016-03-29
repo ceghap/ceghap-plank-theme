@@ -2,7 +2,7 @@
 
 ![Ceghap Plank Theme](/readme/ceghap-plank-theme.png)
 
-##How to use
+##How to install
 1. Clone this repos to your local machone.
 	```
 	git clone https://github.com/ceghap/ceghap-plank-theme.git
